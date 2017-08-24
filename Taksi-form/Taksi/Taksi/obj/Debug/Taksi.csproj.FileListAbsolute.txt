@@ -1,0 +1,10 @@
+D:\Taksi-form\Taksi\Taksi\bin\Debug\Taksi.exe.config
+D:\Taksi-form\Taksi\Taksi\bin\Debug\Taksi.exe
+D:\Taksi-form\Taksi\Taksi\bin\Debug\Taksi.pdb
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.csprojResolveAssemblyReference.cache
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.Taksi.resources
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.Properties.Resources.resources
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.csproj.GenerateResource.Cache
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.csproj.CoreCompileInputs.cache
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.exe
+D:\Taksi-form\Taksi\Taksi\obj\Debug\Taksi.pdb
